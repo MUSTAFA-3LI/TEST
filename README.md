@@ -200,3 +200,5 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 In two ways the image is pushed in dockerhub
 
 ![docker hub](https://github.com/user-attachments/assets/a56ea330-ce13-40e1-b811-cee7f3f766b5)
+
+delete this row
